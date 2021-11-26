@@ -10,9 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shishir-shkehar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shishir-shekhar/)
-[<img align="left" alt="shishirshekharpathak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shishirshekharpathak/)
-
+[LinkedIn](https://www.linkedin.com/in/shishir-shekhar/)
 <br>
-
-![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShishirShekhar&show_icons=true&theme=radical)
+[Instagram](https://www.instagram.com/shishirshekharpathak/)
+<br>
