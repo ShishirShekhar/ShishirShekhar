@@ -11,6 +11,10 @@
 ### Here are my some recent activity:
 [![Shishir's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShishirShekhar&theme=react-dark)](https://github.com/ShishirShekhar/)
 
+### 📊 Some Fun Stats:
+| ![My Stats](https://github-readme-stats.vercel.app/api?username=ShishirShekhar&theme=midnight-purple) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirShekhar&theme=midnight-purple) |
+| --- | --- |
+| ![Shishir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShishirShekhar&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/ShishirShekhar/count.svg) |
 
 ### Connect with me:
 
