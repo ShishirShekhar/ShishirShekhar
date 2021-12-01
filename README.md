@@ -8,7 +8,7 @@
 - 🥅 2021 Goal: To create some amazing project
 - ⚡ Fun Fact: I like watching anime
 
-### Here are my some recent activity:
+### 🧾 Recent Contributions:
 [![Shishir's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShishirShekhar&theme=react-dark)](https://github.com/ShishirShekhar/)
 
 ### 📊 Some Fun Stats:
@@ -16,7 +16,7 @@
 | --- | --- |
 | ![Shishir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShishirShekhar&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/ShishirShekhar/count.svg) |
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/shishir-shekhar/)
 <br>
