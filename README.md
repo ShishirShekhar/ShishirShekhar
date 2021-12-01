@@ -2,7 +2,7 @@
 
 # I'm a Developer and Student 
 
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Full Stack Web Development, Android Development
 - 🌱 I’m currently learning everything 😂
 - 💞️ I’m looking to collaborate with other amazing developers
 - 🥅 2021 Goal: To create some amazing project
