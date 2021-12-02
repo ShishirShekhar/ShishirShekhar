@@ -22,3 +22,6 @@
 <br>
 [Instagram](https://www.instagram.com/shishirshekharpathak/)
 <br>
+
+### 🐍 Watch Snake eating my contribution
+![Snake](https://github.com/ShishirShekhar/ShishirShekhar/blob/output/github-contribution-grid-snake.gif)
