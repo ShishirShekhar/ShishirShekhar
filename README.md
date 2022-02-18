@@ -2,7 +2,7 @@
 
 # I'm a Developer and Student <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50">
 
-- 👀 I’m interested in Data Science, Full Stack Web Development, Android Development
+- 👀 I’m interested in Full Stack Web Development, Data Science and Android Development
 - 🌱 I’m currently learning everything 😂
 - 💞️ I’m looking to collaborate with other amazing developers
 - 🥅 2021 Goal: To create some amazing project
