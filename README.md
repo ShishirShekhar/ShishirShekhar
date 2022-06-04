@@ -1,4 +1,4 @@
-#### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> Hi, I'm Shishir Shekhar
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> Hi, I'm Shishir Shekhar
 
 # I'm a Developer and Student <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50">
 
