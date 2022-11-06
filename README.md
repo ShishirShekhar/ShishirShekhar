@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-  Hi, I'm Shishir Shekhar
-</h1>
+![Header](./github-header-image.png)
 
 <h1 align="center">I'm a Developer and Student</h1> 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" align="right">
