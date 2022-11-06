@@ -30,6 +30,10 @@
 ### 🐍 Watch Snake eating my contribution:
 ![Snake](https://github.com/ShishirShekhar/ShishirShekhar/blob/output/github-contribution-grid-snake.svg)
 
+### 🎬 Watch animated commit:
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
 ### 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishir-shekhar/)
