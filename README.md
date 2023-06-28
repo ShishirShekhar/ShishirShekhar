@@ -4,10 +4,10 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" align="right">
 
-- 👀 I’m interested in Full Stack Web Development, Data Science and Android Development
+- 👀 I’m interested in Full Stack Web Development and Data Science
 - 🌱 I’m currently learning everything 😂
 - 💞️ I’m looking to collaborate with other amazing developers
-- 🥅 2022 Goal: To create some amazing project
+- 🥅 2023 Goal: To create some amazing project
 - ⚡ Fun Fact: I like watching anime
 
 ---
